@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365570392440",
+    "project_id": "demofirebasesendemaillink",
+    "storage_bucket": "demofirebasesendemaillink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365570392440:android:f2ea8339475a15e771488d",
+        "android_client_info": {
+          "package_name": "com.example.demofirebasesendemaillink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365570392440-qjesmogmf101oeu34h7ipkavjldd2t58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demofirebasesendemaillink",
+            "certificate_hash": "2eda05ad361093a969eb00aa63eafe2c83199e45"
+          }
+        },
+        {
+          "client_id": "365570392440-oeafmhv6o3ss7hu45v8oqtvlg4mepppi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATngvq7RDJM0_7WAMt82mXWKIbHcf7s3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365570392440-oeafmhv6o3ss7hu45v8oqtvlg4mepppi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
